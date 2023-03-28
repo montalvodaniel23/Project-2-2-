@@ -1,21 +1,11 @@
 @charset "utf-8";
-
 @font-face {
 	font-family: Champagne;
 	src: url(cac_champagne.woff) format('woff'),
 	     url(cac_champagne.ttf) format('ttf');
 }
 
-/*
-   New Perspectives on HTML5 and CSS3, 8th Edition
-   Tutorial 3
-   Tutorial Case
-   
-   Typography and Color Styles for pc_home.html
-   
-   Filename: pc_styles1.css
 
-*/
 
 /* HTML and Body Styles */
 
@@ -53,7 +43,7 @@ nav.horizontalNavigation a:active {
 /* Left Column Paragraph Styles */
 
 section#leftColumn p {
-   color: black
+   color: black;
    font-size: 0.9em;
    line-height: 1.6em;
 }
